@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 Hello! 
 
+## Basic Info
 I'm an undergrad CS major at UW. 
 I have experience in Java, C, C++, Python, Scala, C#, JavaScript, SQL, Bash Scripting, Assembly Language. 
 I'm interested in machine learning, deep learning, robotics, and full-stack development.
+
+## Activities
+I'm currently a part of Husky Robotics, the Robotics and State Estimation Lab, the Social Futures Lab, and the Society of Women Engineers at UW.
