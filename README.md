@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Simran Malhi (she/her)
+
+Hello! 
+
+I'm an undergrad CS major at UW. 
+I have experience in Java, C, C++, Python, Scala, C#, JavaScript, SQL, Bash Scripting, Assembly Language. 
+I'm interested in machine learning, deep learning, robotics, and full-stack development.
