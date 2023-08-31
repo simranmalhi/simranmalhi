@@ -24,4 +24,4 @@ I'm interested in machine learning, deep learning, robotics, and full-stack deve
 Check out my [linkedin](https://www.linkedin.com/in/malhi-simran/) here!
 
 ## Activities
-I'm currently a part of Husky Robotics, the Robotics and State Estimation Lab, the Social Futures Lab, and the Society of Women Engineers at UW. I'm an upcoming Blue Origin software engineering intern and a previous intern at Qualtrics.
+I'm currently a part of Husky Robotics, the Robotics and State Estimation Lab, the Social Futures Lab, and the Society of Women Engineers at UW. I'm currently a Blue Origin software engineering intern and a previous software engineering intern at Qualtrics.
